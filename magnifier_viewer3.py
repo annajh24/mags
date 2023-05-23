@@ -8,7 +8,7 @@ from io import BytesIO
 IMAGE_WIDTH = 480
 IMAGE_HEIGHT = 631
 ZOOM_IMAGE_SIZE = 180
-ZOOM_SQUARE_SIZE = 20
+ZOOM_SQUARE_SIZE = 1
 PROGRESS_BAR_LENGTH = 50
 
 parser = argparse.ArgumentParser(description="download flashphotography magnifier image")
